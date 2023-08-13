@@ -23,7 +23,7 @@ export default function App() {
           rel="noreferrer"
         >
           {" "}
-          on Netlify
+          hosting on Netlify
         </a>
       </footer>
     </div>
